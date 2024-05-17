@@ -9,7 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_svg: 1.0.0
+#  flutter_svg: 1.0.0
+  flutter_svg: 0.22.0
   enum_to_string: ^2.0.1
 
 dev_dependencies:
